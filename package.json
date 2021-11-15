@@ -7,9 +7,12 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
-		"express": "^5.0.0-alpha.2",
 		"cors": "^2.8.1",
-		"dotenv": "^8.2.0"
+		"dns": "^0.2.2",
+		"dotenv": "^8.2.0",
+		"es6-promise": "^4.2.8",
+		"express": "^5.0.0-alpha.2",
+		"isomorphic-fetch": "^3.0.0"
 	},
 	"repository": {
 		"type": "git",
